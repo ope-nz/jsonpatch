@@ -1,5 +1,5 @@
 # jsonpatch
-Command line interface to perform a diff of two JSON files.
+Command line interface to perform a diff of two JSON files. I couldnt find a stands alone CLI to perform a diff that didnt require Node or some other kind of runtime so I wrote this. Intention is to call this from PowerShell,
 
 This is a CLI wrapper for https://github.com/wbish/jsondiffpatch.net
 
